@@ -1,5 +1,5 @@
 # Header
-navname: Bentham's Blog
+navname: Liu's Blog
 
 # navigatior items
 nav:
@@ -9,14 +9,14 @@ nav:
   About: /about
 
 # favicon
-favicon: /favicon.ico
+favicon: https://cdn.jsdelivr.net/gh/justzerock/assets@master/favicon.ico
 
 # Profile
-nickname: Jeremy Bentham
+nickname: 亦如年少
 
 ### this variable is MarkDown form.
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
-avatar: /image/avatar.jpeg
+description: 往者不可谏，来者犹可追。
+avatar: https://cdn.jsdelivr.net/gh/justzerock/assets@master/avatar.png
 
 # main menu navigation
 ## links key words should not be changed.
@@ -49,7 +49,7 @@ links:
 #  QQ:
 #  Weibo:
 #  WeChat:
-  Github: https://github.com/Siricee
+  Github: https://github.com/justzerock
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
